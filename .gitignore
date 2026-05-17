@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+
+# Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+/captures
+
+# External native build artifacts
+.cxx/
+.externalNativeBuild/
+
+# Kotlin
+.kotlin/
+
+# User-specific stuff
+local.properties
+.DS_Store
+
+# Logs
+*.log
+
+# Android App Bundle & APKs
+*.aab
+*.apk
